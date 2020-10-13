@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**rafasfz/rafasfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rafael, I'm 19, I'm and web developer technician and I'm a Bachelor Student in Information Technology at UFRN.
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasfz&layout=compact" alt="Rafael's Github Stats" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My favorites technologies 💻
+
+- JavaScript for programming language 💛
+- React.js for front-end 💙
+- Node.js for back-end 💚
+
+## Random facts about me 🎈
+- My favorite anime is Hunter x Hunter
+- I have a dog called Feliz
+- I love games souls-like
