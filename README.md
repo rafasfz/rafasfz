@@ -1,6 +1,8 @@
 ### Hey there 👋
 
-My name is Rafael, I'm 19, I'm a web developer technician and I'm a Bachelor Student in Information Technology at UFRN.
+My name is Rafael, I'm a web developer technician and I'm a Bachelor Student in Information Technology at UFRN.
+
+I currently work at IMD as a full stack (focused on back end) developer.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasfz&layout=compact" alt="Rafael's Github Stats" />
 
