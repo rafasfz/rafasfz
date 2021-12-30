@@ -4,8 +4,6 @@ My name is Rafael, I'm a web developer technician and I'm a Bachelor Student in 
 
 I currently work at IMD as a full stack (focused on back end) developer.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasfz&layout=compact" alt="Rafael's Github Stats" />
-
 ## My favorites technologies 💻
 
 - JavaScript for programming language 💛
