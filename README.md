@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Rafael, I'm a Bachelor Student in Information Technology and web developer technician at UFRN.
+My name is Rafael, I'm a graduated in Information Technology and web developer technician at UFRN.
 
 I currently work at IMD in a Intebras project as back-end developer with Python (Django).
 
